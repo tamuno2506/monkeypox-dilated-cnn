@@ -31,7 +31,7 @@ The unified dataset was constructed by refactoring and merging images from the f
 
 ### Citation
 
-When using this dataset, please cite the original dataset creators:
+original dataset creators:
 
 * Yousry, A., et al. (2022). *Monkeypox Skin Lesion Dataset*. Kaggle.
 * Other sources as referenced in their respective repositories.
